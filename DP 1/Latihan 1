@@ -1,0 +1,28 @@
+program Latihan1;
+uses crt;
+
+var 
+    Nama : string;
+    NIM : string;
+    Kom : char;
+    Alamat : string;
+
+begin
+    clrscr;
+
+    {input data}
+    write('Masukkan nama anda');
+    readln('Nama');
+
+     write('Masukkan NIM anda');
+    readln('Nim');
+
+     write('Masukkan KOM anda');
+    readln('Kom');
+
+ write('Masukkan alamat anda');
+    readln('Alamat');
+
+{output data}
+
+

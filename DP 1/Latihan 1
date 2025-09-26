@@ -24,5 +24,6 @@ begin
     readln('Alamat');
 
 {output data}
+    write
 
 

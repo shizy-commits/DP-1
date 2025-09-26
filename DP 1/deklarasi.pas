@@ -10,12 +10,12 @@ var // variabel --> simpan nilai yang berubah ubah
     usia: integer;
 
 {konstanta = simpan nilai yang tetap}
-const 
+ const
     Salam = ('Salam kenal !');
+
 
 begin
     clrscr;
-
     writeln(Salam);
     readln(nama);
     write('Masukkan Usia :');
